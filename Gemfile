@@ -1,0 +1,5 @@
+source "http://rubygems.org"
+gem "nokogiri"
+gem "watir"
+gem "watir-webdriver"
+gem "page-object"
