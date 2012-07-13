@@ -27,7 +27,7 @@ Installation
 
 - For 2011 scenarios install Chrome Webdriver to your PATH and modify the scenario-scripts to get the Chrome-extension for HTTP Authentication in URL from a correct folder, i.e. change "--load-extension=D:\Development\WatirBenchmarking\2011\ChromeExtension" to the location of the extension.
 
--Done!
+- Done!
 
 Usage
 -----
